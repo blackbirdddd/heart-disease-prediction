@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+myenv/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore data that shouldn't be on GitHub
+*.csv
+*.npz
+*.mp4
+
+# Ignore IDE / OS config
+.vscode/
+.idea/
+*.log
